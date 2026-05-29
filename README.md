@@ -1,2 +1,5 @@
 # oficina-reconhecimento-facial-NodeJS
 node server.js
+15973ypgx407
+https://phrvaypynumcjbbjrmdi.supabase.co/rest/v1/
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBocnZheXB5bnVtY2piYmpybWRpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODAwNjI2MTMsImV4cCI6MjA5NTYzODYxM30.F6H7zLWJWmzFVe-HIl9WNQREHsUJz93bSXj0zkL3AuI
